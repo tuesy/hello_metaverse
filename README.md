@@ -14,4 +14,4 @@ Hello Metaverse is a sample Unity Project for uploading to your own Altspace Tem
 * Click "Choose a .unity file ------->" and find Assets > Scenes > SampleScene
 * Note that "Build for platforms" should only have "Windows" checked
 * Click "Build & Upload"
-* After it's done, click "Open in browser" and see that a new entry has been added to the "Uploads" table
+* After it's done, click "Open in browser" and see that a new entry has been added to the "Uploads" table with "20203" and "linear" color space. Until the Upgrade happens you'll need a Preview build (see the FAQ)
