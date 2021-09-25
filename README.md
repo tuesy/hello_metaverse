@@ -15,7 +15,10 @@ Hello Metaverse is a sample Unity Project for uploading to your own Altspace Tem
 * Note that "Build for platforms" should only have "Windows" checked
 * Click "Build & Upload"
 * After it's done, click "Open in browser" and see that a new entry has been added to the "Uploads" table with "20203" and "linear" color space. Until the Upgrade happens you'll need a Preview build (see the FAQ)
+* With a preview build, enter a World using the Template you chose and you should see 4 cubes around you.
 
 # Troubleshooting
 
 * **When I (re)open the project I see a "layout" error and it asks me to load default layout or factory settings** - Try closing the "AltspaceVR" tab before closing the project. This should avoid the bug.
+* **How do I create my own Template?** - please follow the guide linked above
+* **Why do my selections clear after I Build & Upload** - to avoid accidents
