@@ -2,6 +2,8 @@
 
 Hello Metaverse is a sample Unity Project for uploading to your own Altspace Template. Follow the [guide](https://buildingthemetaverse.medium.com/how-to-make-your-own-altspace-templates-and-kits-unity-2020-3-9-uploader-2-x-5b40e92bb759) for step-by-step instructions and check the [FAQ](https://buildingthemetaverse.medium.com/altspace-unity-upgrade-faq-9c55cdaa543e) before asking for help in our [Discord](https://altvr.com/discord).
 
+![image](https://user-images.githubusercontent.com/217022/134787263-ec07b850-e95c-4729-987b-371683fceeb0.png)
+
 # Usage
 
 * Clone this repo or download a zip of this repo
